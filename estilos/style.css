@@ -87,11 +87,11 @@ div.campo > span {
 div.campo > input {
     background-color: #53b4b1;
     font-size: 1em;
-    width: calc(100% - 43.36px); /* fazer encaixe dentro da caixa*/
+    width: calc(100% - 43.8px); /* fazer encaixe dentro da caixa*/
     height: 100%;
     border: 0px;
     border-radius: 8px;
-    padding: 4px;
+    padding: 5px;
     transform: translateY(-10px); /* transformação sempre a ultima linha */
 }
 
