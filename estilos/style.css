@@ -91,7 +91,8 @@ div.campo > input {
     height: 100%;
     border: 0px;
     border-radius: 8px;
-    padding:4px;
+    padding:5px;
+    margin: 1px 0px 2px 0px;
     transform: translateY(-10px); /* transformação sempre a ultima linha */
 }
 
